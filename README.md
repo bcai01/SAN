@@ -1,1 +1,4 @@
-We're organizing the code and resources, and we're about to release it.
+
+``` bash
+python -m spacy download en_core_web_sm
+```

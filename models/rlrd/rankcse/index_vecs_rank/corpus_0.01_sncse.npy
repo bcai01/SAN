@@ -1,0 +1,1 @@
+wget https://huggingface.co/datasets/bcai001/san_dataset/resolve/main/index_vecs_rank/corpus_0.01_sncse.npy
